@@ -1,0 +1,8 @@
+{
+  "name": "Pathfinder Android - Career & Education Compass",
+  "description": "A user-friendly Android mobile app for students exploring Class 10 & 12 educational paths, courses, careers, and multi-turn AI guidance powered by Gemini with High Thinking mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
